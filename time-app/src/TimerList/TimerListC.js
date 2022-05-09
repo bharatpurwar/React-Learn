@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import EditableTimer from "../EditableTimer/EditableTimerC";
+import EditableTimer from "../EditableTimer/EditableTimerF";
 
 class TimerList extends React.Component{
     constructor(props){

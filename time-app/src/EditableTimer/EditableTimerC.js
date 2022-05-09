@@ -1,6 +1,6 @@
 import React from "react";
-import TimerForm from "../TimerForm/TimerFormC";
-import Timer from "../Timer/TimerC";
+import TimerForm from "../TimerForm/TimerFormF";
+import Timer from "../Timer/TimerF";
 
 class EditableTimer extends React.Component{
 

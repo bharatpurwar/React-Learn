@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import TimerForm from "../TimerForm/TimerFormC";
+import TimerForm from "../TimerForm/TimerFormF";
 
 class EditableAddTimer extends React.Component{
     constructor(props){
